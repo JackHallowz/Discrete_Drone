@@ -1,1 +1,2 @@
-# Discrete_Drone
+# Discrete_Drone 
+discreted PID hexacopter. ESP32.
